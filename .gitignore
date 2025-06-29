@@ -6,6 +6,9 @@ __pycache__/
 # Virtual environment files
 venv/
 
+# Temporary file for testing mechanics
+temp.py
+
 # C extensions
 *.so
 
